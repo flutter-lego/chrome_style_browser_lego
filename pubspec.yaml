@@ -21,9 +21,7 @@ dependencies:
   flutter_screenutil:
   bot_toast:
   flutter_inappwebview: #@add
-  super_cupertino_navigation_bar:
-    git:
-      url: https://github.com/melodysdreamj/super_cupertino_navigation_bar
+  super_cupertino_navigation_bar_for_my_self: #@add
 
 dev_dependencies:
   flutter_test:

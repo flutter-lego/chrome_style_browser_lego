@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_inappwebview/flutter_inappwebview.dart';
-import 'package:super_cupertino_navigation_bar/super_cupertino_navigation_bar.dart';
+import 'package:super_cupertino_navigation_bar_for_my_self/super_cupertino_navigation_bar_for_my_self.dart';
 
 import '../../../../../../../../../../../main.dart';
 
