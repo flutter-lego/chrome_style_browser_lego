@@ -1,7 +1,7 @@
 name: chrome_style_browser_lego
 description: "Chrome Style Browser View Lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/chrome_style_browser_lego
 
 version: 1.0.0+1
 
